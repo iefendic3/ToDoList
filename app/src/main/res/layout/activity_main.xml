@@ -8,8 +8,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_width="255dp"
+        android:layout_height="68dp"
         android:gravity="center"
         android:padding="10dp"
         android:text="All tasks"
@@ -27,13 +27,15 @@
 
     </ListView>
 
-    <Button
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerInParent="true"
-        android:text="+"
-        android:background = "@drawable/roundedbutton"/>
+        android:layout_marginBottom="10dp"
+        android:backgroundTint="#ffbb86fc"
+        android:clickable="true"
+        app:srcCompat="@android:drawable/ic_input_add" />
 
 </RelativeLayout>

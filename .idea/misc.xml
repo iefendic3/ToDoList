@@ -4,7 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Admin/AndroidStudioProjects/ToDoList/app/src/main/res/drawable/roundedbutton.xml" value="0.2265" />
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/ToDoList/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ToDoList/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/ToDoList/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/ToDoList/app/src/main/res/layout/popup.xml" value="0.25" />
       </map>
     </option>
